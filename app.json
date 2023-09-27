@@ -13,10 +13,10 @@
     "logo": "https://telegra.ph/file/b39906f572822b3ab82c8.jpg",
     "env": {
         "API_ID": {
-            "description": "Get this value from my.telegram.org or @TeleORG_Bot"
+            "description": "9989771"
         },
         "API_HASH": {
-            "description": "Get this value from my.telegram.org or @TeleORG_Bot"
+            "description": "baede4a3286fa45ff9cf08f6d72a7d9b"
         },
         "BOT_TOKEN": {
             "description": "6317817140:AAHI4EUkWxQXY3fAAsWeiwtQFcV59zpKERI"
